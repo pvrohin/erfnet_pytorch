@@ -1,6 +1,6 @@
 # ERFNet (PyTorch version)
 
-This repository is inspired to Eduard Romero's original code.
+This repository is inspired to Eduard Romero's original code and was used for the purpose of binary segmentation in the visual perception task of the Mahindra Autonomous Vehicle Challenge.
 
 ## To run on recorded video
 
